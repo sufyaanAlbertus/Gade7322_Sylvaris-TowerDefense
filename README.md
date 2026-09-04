@@ -3,10 +3,7 @@
 A procedurally generated 3D tower defence game, developed as part of the GADE7322 Portfolio of Evidence (PoE).
 
 ## Project Link
-
-Google Drive project link: **[insert link here — see note below]**
-
-> Note: No `GoogleDriveLink.txt` file was found alongside this README, so the actual link couldn't be pulled in automatically. Paste the link here, or upload/paste the contents of `GoogleDriveLink.txt` and it'll be added in.
+Find In GoogleDriveLink.txt file
 
 ## Group Members
 
