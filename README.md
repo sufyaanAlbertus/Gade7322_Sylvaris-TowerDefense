@@ -19,3 +19,4 @@ The following third-party assets were used in this project:
 - Baturinets (n.d.) *Stylized Nature Set* [3D model]. Fab. Available at: https://www.fab.com/listings/ac774c74-0424-435e-8996-21ae6de158db (Accessed: 4 September 2026).
 - Fab (n.d.) *Stylized Grass* [3D model]. Fab. Available at: https://www.fab.com/listings/68708c13-df2d-46c0-bf3e-ffb6e9ee929f (Accessed: 4 September 2026).
 - Nest (n.d.) *Stylized Tree* [3D model]. Fab. Available at: https://www.fab.com/listings/b39d5f78-9494-4a20-b029-24babc8405c5 (Accessed: 4 September 2026).
+- Petrov, G. n.d. Elf Archer Lyra: free 3D character + animations [3D model]. itch.io. [Online]. Available at: https://grigory-petrov.itch.io/elf-archer-lyra [Accessed 6 November 2026]
